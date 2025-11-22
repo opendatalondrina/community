@@ -1,7 +1,6 @@
 # Comunidade Open Data Londrina 
 [![Versão](https://img.shields.io/badge/versão-1.0-blue.svg)](https://github.com/opendatalondrina/community) [![Licença](https://img.shields.io/badge/licença-CC%20BY%204.0-green.svg)](LICENSE) [![Envolva-se](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md) [![Idiomas](https://img.shields.io/badge/idiomas-pt--BR%20%7C%20en--US-orange.svg)](#idiomas-disponíveis)
 
-**Framework open-source para estruturar trilhas de carreira justas, transparentes e sustentáveis**
 
 [Documentação](#documentação) • [Portal](#começar-agora) • [Contribuir](get-involved.md) • [Contato](#contato)
 
